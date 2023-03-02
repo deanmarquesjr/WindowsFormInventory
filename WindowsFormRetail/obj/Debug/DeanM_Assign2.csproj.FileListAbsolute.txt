@@ -1,0 +1,15 @@
+C:\Users\djmar\Documents\C#\DeanM_Assign2\obj\Debug\DeanM_Assign2.csprojAssemblyReference.cache
+C:\Users\djmar\Documents\C#\DeanM_Assign2\obj\Debug\DeanM_Assign2.Form1.resources
+C:\Users\djmar\Documents\C#\DeanM_Assign2\obj\Debug\DeanM_Assign2.Properties.Resources.resources
+C:\Users\djmar\Documents\C#\DeanM_Assign2\obj\Debug\DeanM_Assign2.csproj.GenerateResource.cache
+C:\Users\djmar\Documents\C#\DeanM_Assign2\obj\Debug\DeanM_Assign2.csproj.CoreCompileInputs.cache
+C:\Users\djmar\OneDrive\Documents\OneDrive\Documents\C#\DeanM_Assign2\bin\Debug\DeanM_Assign2.exe.config
+C:\Users\djmar\OneDrive\Documents\OneDrive\Documents\C#\DeanM_Assign2\bin\Debug\DeanM_Assign2.exe
+C:\Users\djmar\OneDrive\Documents\OneDrive\Documents\C#\DeanM_Assign2\bin\Debug\DeanM_Assign2.pdb
+C:\Users\djmar\OneDrive\Documents\OneDrive\Documents\C#\DeanM_Assign2\obj\Debug\DeanM_Assign2.Form1.resources
+C:\Users\djmar\OneDrive\Documents\OneDrive\Documents\C#\DeanM_Assign2\obj\Debug\DeanM_Assign2.Properties.Resources.resources
+C:\Users\djmar\OneDrive\Documents\OneDrive\Documents\C#\DeanM_Assign2\obj\Debug\DeanM_Assign2.csproj.GenerateResource.cache
+C:\Users\djmar\OneDrive\Documents\OneDrive\Documents\C#\DeanM_Assign2\obj\Debug\DeanM_Assign2.csproj.CoreCompileInputs.cache
+C:\Users\djmar\OneDrive\Documents\OneDrive\Documents\C#\DeanM_Assign2\obj\Debug\DeanM_Assign2.exe
+C:\Users\djmar\OneDrive\Documents\OneDrive\Documents\C#\DeanM_Assign2\obj\Debug\DeanM_Assign2.pdb
+C:\Users\djmar\OneDrive\Documents\OneDrive\Documents\C#\DeanM_Assign2\obj\Debug\DeanM_Assign2.csproj.AssemblyReference.cache
